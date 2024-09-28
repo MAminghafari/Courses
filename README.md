@@ -1,4 +1,5 @@
-# Courses
+# Cleaned Soybean data:
+Source: Soybean Disease Dataset
 Source: UCI Machine Learning Repository
 
 Package: "mlbench"; dataset name: "Soybean"
